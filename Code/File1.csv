@@ -1,0 +1,2400 @@
+﻿Day,Classroom,Time,Course,Code
+Monday,F-201,8:30am-10:30am,Data Structures(BDS-4A),BDS-4A
+Monday,F-201,10:30am-12:00pm,COAL(BDS-4B),BDS-4B
+Monday,F-201,12:00pm-1:30pm,Fundamentals of SE(BDS-4C),BDS-4C
+Monday,F-201,1:30pm-3:00pm,Database Systems(BCS-4A),BCS-4A
+Monday,F-201,3:00pm-4:30pm,Operating System(BCS-4B),BCS-4B
+Monday,F-201,4:30pm-6:00pm,Probability and Stats(BCS-4C),BCS-4C
+Monday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-202,8:30am-10:30am,Free slot,Free slot
+Monday,F-202,10:30am-12:00pm,COAL(BDS-4A),BDS-4A
+Monday,F-202,12:00pm-1:30pm,Data Structures(BDS-4B),BDS-4B
+Monday,F-202,1:30pm-3:00pm,Data Structures(BDS-4C),BDS-4C
+Monday,F-202,3:00pm-4:30pm,Operating System(BCS-4A),BCS-4A
+Monday,F-202,4:30pm-6:00pm,Probability and Stats(BCS-4D),BCS-4D
+Monday,F-202,6:00pm-7:30pm,Technical and Business Writing(BCS-4B),BCS-4B
+Monday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-203,8:30am-10:30am,Technical and Business Writing(BCS-4A),BCS-4A
+Monday,F-203,10:30am-12:00pm,Database Systems(BCS-4D),BCS-4D
+Monday,F-203,12:00pm-1:30pm,Database Systems(BCS-4B),BCS-4B
+Monday,F-203,1:30pm-3:00pm,Fundamentals of Management(BDS-4A),BDS-4A
+Monday,F-203,3:00pm-4:30pm,Fundamentals of SE(BDS-4B),BDS-4B
+Monday,F-203,4:30pm-6:00pm,COAL(BDS-4C),BDS-4C
+Monday,F-203,6:00pm-7:30pm,Database Systems(BCS-4C),BCS-4C
+Monday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-204,8:30am-10:30am,Database Systems(BCS-4E),BCS-4E
+Monday,F-204,10:30am-12:00pm,Free slot,Free slot
+Monday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-204,1:30pm-3:00pm,Operating System(BCS-4D),BCS-4D
+Monday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-204,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-205,8:30am-10:30am,Object Oriented Programming(BCS-2A),BCS-2A
+Monday,F-205,10:30am-12:00pm,Free slot,Free slot
+Monday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-205,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-206,8:30am-10:30am,Object Oriented Programming(BDS-2A) ,BDS-2A
+Monday,F-206,10:30am-12:00pm,Free slot,Free slot
+Monday,F-206,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-206,1:30pm-3:00pm,Object Oriented Programming(BCS-2E),BCS-2E
+Monday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-207,8:30am-10:30am,Free slot,Free slot
+Monday,F-207,10:30am-12:00pm,Multivariable Calculus(BDS-2B),BDS-2B
+Monday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-207,1:30pm-3:00pm,Multivariable Calculus(BCS-2A),BCS-2A
+Monday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-208,8:30am-10:30am,Free slot,Free slot
+Monday,F-208,10:30am-12:00pm,Multivariable Calculus(BDS-2A),BDS-2A
+Monday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-208,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-209,8:30am-10:30am,Free slot,Free slot
+Monday,F-209,10:30am-12:00pm,Operating System(BCS-4E),BCS-4E
+Monday,F-209,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-209,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-210,8:30am-10:30am,Free slot,Free slot
+Monday,F-210,10:30am-12:00pm,Free slot,Free slot
+Monday,F-210,12:00pm-1:30pm,Object Oriented Programming(BDS-2B) ,BDS-2B
+Monday,F-210,1:30pm-3:00pm,Digital Logic Design(BDS-2A),BDS-2A
+Monday,F-210,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-301,8:30am-10:30am,Free slot,Free slot
+Monday,F-301,10:30am-12:00pm,Free slot,Free slot
+Monday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-301,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-301,3:00pm-4:30pm,Multivariable Calculus(BCS-2E),BCS-2E
+Monday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-302,8:30am-10:30am,Free slot,Free slot
+Monday,F-302,10:30am-12:00pm,Digital Logic Design(BDS-2C),BDS-2C
+Monday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-302,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-302,3:00pm-4:30pm,Probability and Stats(BCS-4E),BCS-4E
+Monday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-303,8:30am-10:30am,Digital Logic Design(BCS-2B),BCS-2B
+Monday,F-303,10:30am-12:00pm,Free slot,Free slot
+Monday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-303,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-304,8:30am-10:30am,Free slot,Free slot
+Monday,F-304,10:30am-12:00pm,Free slot,Free slot
+Monday,F-304,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-304,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-304,3:00pm-4:30pm,Digital Logic Design(BCS-2A),BCS-2A
+Monday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-305,8:30am-10:30am,Object Oriented Programming(BCS-2C),BCS-2C
+Monday,F-305,10:30am-12:00pm,Object Oriented Programming(BCS-2D),BCS-2D
+Monday,F-305,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-305,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-306,8:30am-10:30am,Free slot,Free slot
+Monday,F-306,10:30am-12:00pm,Digital Logic Design(BCS-2E),BCS-2E
+Monday,F-306,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-306,1:30pm-3:00pm,Object Oriented Programming(BDS-2C),BDS-2C
+Monday,F-306,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-307,8:30am-10:30am,Free slot,Free slot
+Monday,F-307,10:30am-12:00pm,Free slot,Free slot
+Monday,F-307,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-307,1:30pm-3:00pm,Multivariable Calculus(BCS-2B),BCS-2B
+Monday,F-307,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-308,8:30am-10:30am,Free slot,Free slot
+Monday,F-308,10:30am-12:00pm,Free slot,Free slot
+Monday,F-308,12:00pm-1:30pm,Multivariable Calculus(BCS-2C),BCS-2C
+Monday,F-308,1:30pm-3:00pm,Multivariable Calculus(BCS-2D),BCS-2D
+Monday,F-308,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-309,8:30am-10:30am,Digital Logic Design(BCS-2D),BCS-2D
+Monday,F-309,10:30am-12:00pm,Free slot,Free slot
+Monday,F-309,12:00pm-1:30pm,Object Oriented Programming(BCS-2B),BCS-2B
+Monday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-309,3:00pm-4:30pm,Free slot,Free slot
+Monday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Monday,F-310,8:30am-10:30am,Free slot,Free slot
+Monday,F-310,10:30am-12:00pm,Free slot,Free slot
+Monday,F-310,12:00pm-1:30pm,Free slot,Free slot
+Monday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Monday,F-310,3:00pm-4:30pm,Digital Logic Design(BCS-2C),BCS-2C
+Monday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Monday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Monday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-1,8:30am-10:30am,Free slot,Free slot
+Monday,C-1,10:30am-12:00pm,Free slot,Free slot
+Monday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-1,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-2,8:30am-10:30am,Free slot,Free slot
+Monday,C-2,10:30am-12:00pm,Free slot,Free slot
+Monday,C-2,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-2,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-3,8:30am-10:30am,Free slot,Free slot
+Monday,C-3,10:30am-12:00pm,Free slot,Free slot
+Monday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-4,8:30am-10:30am,Free slot,Free slot
+Monday,C-4,10:30am-12:00pm,Free slot,Free slot
+Monday,C-4,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-5,8:30am-10:30am,Free slot,Free slot
+Monday,C-5,10:30am-12:00pm,Free slot,Free slot
+Monday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-5,3:00pm-4:30pm,Expository Writing(BDS-2B),BDS-2B
+Monday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-6,8:30am-10:30am,Free slot,Free slot
+Monday,C-6,10:30am-12:00pm,Free slot,Free slot
+Monday,C-6,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-7,8:30am-10:30am,Free slot,Free slot
+Monday,C-7,10:30am-12:00pm,Free slot,Free slot
+Monday,C-7,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-7,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-7,3:00pm-4:30pm,Expository Writing(BDS-2C),BDS-2C
+Monday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-13,8:30am-10:30am,Free slot,Free slot
+Monday,C-13,10:30am-12:00pm,Free slot,Free slot
+Monday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-13,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Monday,C-14,8:30am-10:30am,Free slot,Free slot
+Monday,C-14,10:30am-12:00pm,Free slot,Free slot
+Monday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Monday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Monday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Monday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Monday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Monday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Monday,D-1,8:30am-10:30am,Free slot,Free slot
+Monday,D-1,10:30am-12:00pm,Free slot,Free slot
+Monday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Monday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Monday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Monday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Monday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Monday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Monday,D-2,8:30am-10:30am,Free slot,Free slot
+Monday,D-2,10:30am-12:00pm,Free slot,Free slot
+Monday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Monday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Monday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Monday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Monday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Monday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-1,1:30pm-3:00pm,Technical and Business Writing(BCS-4C),BCS-4C
+Monday,English Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Monday,English Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-3,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Monday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-4,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Monday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-5,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Monday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Monday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Monday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Monday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Monday,English Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Monday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Monday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Monday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Monday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-1,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-2,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-3,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-4,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-5,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-6,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-8,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-8,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-13,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-13,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-14,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-14,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-15,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-15,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Monday,Lab-16,8:30am-10:30am,Free slot,Free slot
+Monday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Monday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Monday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Monday,Lab-16,3:00pm-4:30pm,Free slot,Free slot
+Monday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Monday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Monday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Monday,Micro Lab,8:30am-10:30am,Free slot,Free slot
+Monday,Micro Lab,10:30am-12:00pm,Free slot,Free slot
+Monday,Micro Lab,12:00pm-1:30pm,Free slot,Free slot
+Monday,Micro Lab,1:30pm-3:00pm,Free slot,Free slot
+Monday,Micro Lab,3:00pm-4:30pm,Free slot,Free slot
+Monday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Monday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Monday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Monday,Physics Lab,8:30am-10:30am,Free slot,Free slot
+Monday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Monday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Monday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Monday,Physics Lab,3:00pm-4:30pm,Free slot,Free slot
+Monday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Monday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Monday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-201,10:30am-12:00pm,Advance Stats(BDS-4A),BDS-4A
+Tuesday,F-201,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-201,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-201,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-201,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-202,8:30am-10:30am,Civics(BDS-4B),BDS-4B
+Tuesday,F-202,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-202,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-202,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-202,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-202,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-202,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-203,8:30am-10:30am,Psycology(BCS-4B),BCS-4B
+Tuesday,F-203,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-203,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-203,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-203,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-203,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-203,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-204,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-204,10:30am-12:00pm,Probability and Stats(BDS-4B),BDS-4B
+Tuesday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-204,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-204,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-205,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-205,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-205,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-206,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-206,10:30am-12:00pm,Operating System(BCS-4C),BCS-4C
+Tuesday,F-206,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-206,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-207,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-207,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-207,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-208,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-208,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-208,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-209,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-209,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-209,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-209,1:30pm-3:00pm,Fundamentals of Management(BDS-4C),BDS-4C
+Tuesday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-210,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-210,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-210,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-210,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-210,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-301,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-301,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-301,1:30pm-3:00pm,Psycology(BCS-4C),BCS-4C
+Tuesday,F-301,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-302,8:30am-10:30am,Psycology(BCS-4D),BCS-4D
+Tuesday,F-302,10:30am-12:00pm,Advance Stats(BDS-4B),BDS-4B
+Tuesday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-302,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-302,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-303,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-303,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-303,1:30pm-3:00pm,Civics(BDS-4A),BDS-4A
+Tuesday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-304,8:30am-10:30am,Psycology(BCS-4A),BCS-4A
+Tuesday,F-304,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-304,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-304,1:30pm-3:00pm,Fundamentals of Management(BDS-4B),BDS-4B
+Tuesday,F-304,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-305,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-305,10:30am-12:00pm,Advance Stats(BDS-4C),BDS-4C
+Tuesday,F-305,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-305,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-306,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-306,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-306,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-306,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-306,3:00pm-4:30pm,Civics(BDS-4C),BDS-4C
+Tuesday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-307,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-307,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-307,12:00pm-1:30pm,Probability and Stats(BDS-4A),BDS-4A
+Tuesday,F-307,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-307,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-308,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-308,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-308,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-308,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-308,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-309,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-309,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-309,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-309,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,F-310,8:30am-10:30am,Free slot,Free slot
+Tuesday,F-310,10:30am-12:00pm,Free slot,Free slot
+Tuesday,F-310,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,F-310,3:00pm-4:30pm,Fundamentals of SE(BDS-4A),BDS-4A
+Tuesday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-1,8:30am-10:30am,Expository Writing(BDS-2A),BDS-2A
+Tuesday,C-1,10:30am-12:00pm,Free slot,Free slot
+Tuesday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-1,3:00pm-4:30pm,Expository Writing(BCS-2A),BCS-2A
+Tuesday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-2,8:30am-10:30am,Islamiat(BDS-2C),BDS-2C
+Tuesday,C-2,10:30am-12:00pm,Islamiat(BCS-2A),BCS-2A
+Tuesday,C-2,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-2,1:30pm-3:00pm,Expository Writing(BCS-2C),BCS-2C
+Tuesday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-3,8:30am-10:30am,Expository Writing(BCS-2B),BCS-2B
+Tuesday,C-3,10:30am-12:00pm,Free slot,Free slot
+Tuesday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-4,8:30am-10:30am,Free slot,Free slot
+Tuesday,C-4,10:30am-12:00pm,Islamiat(BCS-2C),BCS-2C
+Tuesday,C-4,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-5,8:30am-10:30am,Expository Writing(BCS-2D),BCS-2D
+Tuesday,C-5,10:30am-12:00pm,Islamiat(BDS-2A),BDS-2A
+Tuesday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-5,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-6,8:30am-10:30am,Free slot,Free slot
+Tuesday,C-6,10:30am-12:00pm,Islamiat(BCS-2B),BCS-2B
+Tuesday,C-6,12:00pm-1:30pm,Islamiat(BCS-2E),BCS-2E
+Tuesday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-7,8:30am-10:30am,Expository Writing(BCS-2E),BCS-2E
+Tuesday,C-7,10:30am-12:00pm,Free slot,Free slot
+Tuesday,C-7,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-7,1:30pm-3:00pm,Islamiat(BDS-2B),BDS-2B
+Tuesday,C-7,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-13,8:30am-10:30am,Free slot,Free slot
+Tuesday,C-13,10:30am-12:00pm,Islamiat(BCS-2D),BCS-2D
+Tuesday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-13,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,C-14,8:30am-10:30am,Free slot,Free slot
+Tuesday,C-14,10:30am-12:00pm,Free slot,Free slot
+Tuesday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,D-1,8:30am-10:30am,Free slot,Free slot
+Tuesday,D-1,10:30am-12:00pm,Free slot,Free slot
+Tuesday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,D-2,8:30am-10:30am,Free slot,Free slot
+Tuesday,D-2,10:30am-12:00pm,Free slot,Free slot
+Tuesday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Tuesday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Tuesday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,English Lab-1,1:30pm-3:00pm,Expository Lab(BCS-2A),BCS-2A
+Tuesday,English Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Tuesday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Tuesday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,English Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,English Lab-2,3:00pm-4:30pm,Expository Lab(BDS-2A),BDS-2A
+Tuesday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Tuesday,English Lab-3,10:30am-12:00pm,Expository Lab(BDS-2B),BDS-2B
+Tuesday,English Lab-3,12:00pm-1:30pm,Technical and Business Writing(BCS-4D),BCS-4D
+Tuesday,English Lab-3,1:30pm-3:00pm,Expository Writing Lab(BCS-2E),BCS-2E
+Tuesday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-4,8:30am-10:30am,Expository Writing Lab(BCS-2C),BCS-2C
+Tuesday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Tuesday,English Lab-4,12:00pm-1:30pm,Expository Writing Lab(BCS-2D),BCS-2D
+Tuesday,English Lab-4,1:30pm-3:00pm,Expository Lab(BDS-2C),BDS-2C
+Tuesday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-5,8:30am-10:30am,Technical and Business Writing(BCS-4E),BCS-4E
+Tuesday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Tuesday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Tuesday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Tuesday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,English Lab-6,1:30pm-3:00pm,Expository Writing Lab(BCS-2B),BCS-2B
+Tuesday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-1,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-2,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-3,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-4,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-5,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-6,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-8,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-8,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-13,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-13,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-14,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-14,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-15,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-15,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Lab-16,8:30am-10:30am,Free slot,Free slot
+Tuesday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Lab-16,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Micro Lab,8:30am-10:30am,Free slot,Free slot
+Tuesday,Micro Lab,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Micro Lab,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Micro Lab,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Micro Lab,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Tuesday,Physics Lab,8:30am-10:30am,Free slot,Free slot
+Tuesday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Tuesday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Tuesday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Tuesday,Physics Lab,3:00pm-4:30pm,Free slot,Free slot
+Tuesday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Tuesday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Tuesday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-201,8:30am-10:30am,Data Structures(BDS-4A),BDS-4A
+Wednesday,F-201,10:30am-12:00pm,COAL(BDS-4A),BDS-4A
+Wednesday,F-201,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-201,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-201,3:00pm-4:30pm,Multivariable Calculus(BCS-4D),BCS-4D
+Wednesday,F-201,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-202,8:30am-10:30am,Probability and Stats(BDS-4D),BCS-4D
+Wednesday,F-202,10:30am-12:00pm,Object Oriented Programming(BDS-2B) ,BDS-2B
+Wednesday,F-202,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-202,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-202,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-202,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-202,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-203,8:30am-10:30am,Multivariable Calculus(BCS-2C),BCS-2C
+Wednesday,F-203,10:30am-12:00pm,Digital Logic Design(BCS-2D),BCS-2D
+Wednesday,F-203,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-203,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-203,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-203,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-203,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-204,8:30am-10:30am,Free slot,Free slot
+Wednesday,F-204,10:30am-12:00pm,Data Structures(BDS-4C),BDS-4C
+Wednesday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-204,1:30pm-3:00pm,Database Systems(BCS-4C),BCS-4C
+Wednesday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-204,6:00pm-7:30pm,Object Oriented Programming(BCS-2C),BCS-2C
+Wednesday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-205,8:30am-10:30am,Free slot,Free slot
+Wednesday,F-205,10:30am-12:00pm,Multivariable Calculus(BCS-2B),BCS-2B
+Wednesday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-205,3:00pm-4:30pm,COAL(BDS-4C),BDS-4C
+Wednesday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-206,8:30am-10:30am,Object Oriented Programming(BDS-2A) ,BDS-2A
+Wednesday,F-206,10:30am-12:00pm,Digital Logic Design(BCS-2A),BCS-2A
+Wednesday,F-206,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-206,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-207,8:30am-10:30am,Multivariable Calculus(BDS-2B),BDS-2B
+Wednesday,F-207,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-207,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-208,8:30am-10:30am,Digital Logic Design(BCS-2E),BCS-2E
+Wednesday,F-208,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-208,3:00pm-4:30pm,Digital Logic Design(BDS-2B),BDS-2B
+Wednesday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-209,8:30am-10:30am,Object Oriented Programming(BCS-2D),BCS-2D
+Wednesday,F-209,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-209,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-209,1:30pm-3:00pm,Digital Logic Design(BCS-2C),BCS-2C
+Wednesday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-210,8:30am-10:30am,Digital Logic Design(BDS-2C),BDS-2C
+Wednesday,F-210,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-210,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-210,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-210,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-301,8:30am-10:30am,Object Oriented Programming(BCS-2A),BCS-2A
+Wednesday,F-301,10:30am-12:00pm,Multivariable Calculus(BDS-2A),BDS-2A
+Wednesday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-301,1:30pm-3:00pm,Operating System(BCS-4E),BCS-4E
+Wednesday,F-301,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-302,8:30am-10:30am,Digital Logic Design(BCS-2B),BCS-2B
+Wednesday,F-302,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-302,1:30pm-3:00pm,Digital Logic Design(BDS-2A),BDS-2A
+Wednesday,F-302,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-303,8:30am-10:30am,COAL(BDS-4B),BDS-4B
+Wednesday,F-303,10:30am-12:00pm,Object Oriented Programming(BDS-2C),BDS-2C
+Wednesday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-303,1:30pm-3:00pm,Object Oriented Programming(BCS-2B),BCS-2B
+Wednesday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-304,8:30am-10:30am,Probability and Stats(BDS-4C),BCS-4C
+Wednesday,F-304,10:30am-12:00pm,Database Systems(BCS-4D),BCS-4D
+Wednesday,F-304,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-304,1:30pm-3:00pm,Object Oriented Programming(BCS-2E),BCS-2E
+Wednesday,F-304,3:00pm-4:30pm,Advance Stats(BDS-4B),BDS-4B
+Wednesday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-305,8:30am-10:30am,Free slot,Free slot
+Wednesday,F-305,10:30am-12:00pm,Data Structures(BDS-4B),BDS-4B
+Wednesday,F-305,12:00pm-1:30pm,Multivariable Calculus(BCS-2A),BCS-2A
+Wednesday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-305,3:00pm-4:30pm,Multivariable Calculus(BDS-2C),BDS-2C
+Wednesday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-306,8:30am-10:30am,Free slot,Free slot
+Wednesday,F-306,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-306,12:00pm-1:30pm,Advance Stats(BDS-4A),BDS-4A
+Wednesday,F-306,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-306,3:00pm-4:30pm,Database Systems(BCS-4B),BCS-4B
+Wednesday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-307,8:30am-10:30am,Advance Stats(BDS-4C),BDS-4C
+Wednesday,F-307,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-307,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-307,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-307,3:00pm-4:30pm,Probability and Stats(BCS-4E),BCS-4E
+Wednesday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-308,8:30am-10:30am,Database Systems(BCS-4A),BCS-4A
+Wednesday,F-308,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-308,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-308,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-308,3:00pm-4:30pm,Multivariable Calculus(BCS-2E),BCS-2E
+Wednesday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-309,8:30am-10:30am,Database Systems(BCS-4E),BCS-4E
+Wednesday,F-309,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-309,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-309,3:00pm-4:30pm,Operating System(BCS-4D),BCS-4D
+Wednesday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,F-310,8:30am-10:30am,Operating System(BCS-4B),BCS-4B
+Wednesday,F-310,10:30am-12:00pm,Free slot,Free slot
+Wednesday,F-310,12:00pm-1:30pm,Operating System(BCS-4A),BCS-4A
+Wednesday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,F-310,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-1,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-1,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-1,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-2,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-2,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-2,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-2,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-3,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-3,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-4,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-4,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-4,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-5,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-5,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-5,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-6,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-6,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-6,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-7,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-7,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-7,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-7,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-7,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-13,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-13,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-13,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,C-14,8:30am-10:30am,Free slot,Free slot
+Wednesday,C-14,10:30am-12:00pm,Free slot,Free slot
+Wednesday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,D-1,8:30am-10:30am,Free slot,Free slot
+Wednesday,D-1,10:30am-12:00pm,Free slot,Free slot
+Wednesday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,D-2,8:30am-10:30am,Free slot,Free slot
+Wednesday,D-2,10:30am-12:00pm,Free slot,Free slot
+Wednesday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Wednesday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,English Lab-1,3:00pm-4:30pm,Technical and Business Writing(BCS-4A),BCS-4A
+Wednesday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Wednesday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-2,1:30pm-3:00pm,Technical and Business Writing(BCS-4B),BCS-4B
+Wednesday,English Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-3,10:30am-12:00pm,Technical and Business Writing(BCS-4C),BCS-4C
+Wednesday,English Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-4,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Wednesday,English Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-5,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Wednesday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Wednesday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Wednesday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,English Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-1,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-2,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-3,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-4,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-5,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-6,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-8,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-8,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-13,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-13,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-14,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-14,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-15,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-15,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Lab-16,8:30am-10:30am,Free slot,Free slot
+Wednesday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Lab-16,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Micro Lab,8:30am-10:30am,Free slot,Free slot
+Wednesday,Micro Lab,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Micro Lab,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Micro Lab,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Micro Lab,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Wednesday,Physics Lab,8:30am-10:30am,Free slot,Free slot
+Wednesday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Wednesday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Wednesday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Wednesday,Physics Lab,3:00pm-4:30pm,Free slot,Free slot
+Wednesday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Wednesday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Wednesday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-201,8:30am-10:30am,Free slot,Free slot
+Thursday,F-201,10:30am-12:00pm,Fundamentals of SE(BDS-4A),BDS-4A
+Thursday,F-201,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-201,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-201,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-201,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-202,8:30am-10:30am,Free slot,Free slot
+Thursday,F-202,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-202,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-202,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-202,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-202,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-202,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-203,8:30am-10:30am,Free slot,Free slot
+Thursday,F-203,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-203,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-203,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-203,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-203,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-203,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-204,8:30am-10:30am,Free slot,Free slot
+Thursday,F-204,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-204,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-204,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-205,8:30am-10:30am,Free slot,Free slot
+Thursday,F-205,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-205,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-206,8:30am-10:30am,Free slot,Free slot
+Thursday,F-206,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-206,12:00pm-1:30pm,Fundamentals of SE(BDS-4B),BDS-4B
+Thursday,F-206,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-207,8:30am-10:30am,Free slot,Free slot
+Thursday,F-207,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-207,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-208,8:30am-10:30am,Free slot,Free slot
+Thursday,F-208,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-208,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-209,8:30am-10:30am,Free slot,Free slot
+Thursday,F-209,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-209,12:00pm-1:30pm,Probability and Stats(BCS-4B),BCS-4B
+Thursday,F-209,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-210,8:30am-10:30am,Free slot,Free slot
+Thursday,F-210,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-210,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-210,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-210,3:00pm-4:30pm,Fundamentals of SE(BDS-4C),BDS-4C
+Thursday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-301,8:30am-10:30am,Free slot,Free slot
+Thursday,F-301,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-301,1:30pm-3:00pm,Operating System(BCS-4C),BCS-4C
+Thursday,F-301,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-302,8:30am-10:30am,Free slot,Free slot
+Thursday,F-302,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-302,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-302,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-303,8:30am-10:30am,Free slot,Free slot
+Thursday,F-303,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-303,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-304,8:30am-10:30am,Free slot,Free slot
+Thursday,F-304,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-304,12:00pm-1:30pm,Multivariable Calculus(BDS-2C),BDS-2C
+Thursday,F-304,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-304,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-305,8:30am-10:30am,Free slot,Free slot
+Thursday,F-305,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-305,12:00pm-1:30pm,Probability and Stats(BCS-4A),BCS-4A
+Thursday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-305,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-306,8:30am-10:30am,Free slot,Free slot
+Thursday,F-306,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-306,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-306,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-306,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-307,8:30am-10:30am,Free slot,Free slot
+Thursday,F-307,10:30am-12:00pm,Digital Logic Design(BDS-2B),BDS-2B
+Thursday,F-307,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-307,1:30pm-3:00pm,Expository Writing(BDS-2B),BDS-2B
+Thursday,F-307,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-308,8:30am-10:30am,Free slot,Free slot
+Thursday,F-308,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-308,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-308,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-308,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-309,8:30am-10:30am,Free slot,Free slot
+Thursday,F-309,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-309,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-309,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Thursday,F-310,8:30am-10:30am,Free slot,Free slot
+Thursday,F-310,10:30am-12:00pm,Free slot,Free slot
+Thursday,F-310,12:00pm-1:30pm,Free slot,Free slot
+Thursday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Thursday,F-310,3:00pm-4:30pm,Free slot,Free slot
+Thursday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Thursday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Thursday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-1,8:30am-10:30am,Free slot,Free slot
+Thursday,C-1,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-1,3:00pm-4:30pm,Expository Writing(BDS-2C),BDS-2C
+Thursday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-2,8:30am-10:30am,Free slot,Free slot
+Thursday,C-2,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-2,12:00pm-1:30pm,Expository Writing(BCS-2A),BCS-2A
+Thursday,C-2,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-3,8:30am-10:30am,Expsoitory Writing(BCS-2B),BCS-2B
+Thursday,C-3,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-4,8:30am-10:30am,Free slot,Free slot
+Thursday,C-4,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-4,12:00pm-1:30pm,Expository Writing(BDS-2A),BDS-2A
+Thursday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-5,8:30am-10:30am,Free slot,Free slot
+Thursday,C-5,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-5,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-6,8:30am-10:30am,Free slot,Free slot
+Thursday,C-6,10:30am-12:00pm,Expository Writing(BCS-2C),BCS-2C
+Thursday,C-6,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-7,8:30am-10:30am,Free slot,Free slot
+Thursday,C-7,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-7,12:00pm-1:30pm,Expository Writing(BCS-2D),BCS-2D
+Thursday,C-7,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-7,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-13,8:30am-10:30am,Free slot,Free slot
+Thursday,C-13,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-13,1:30pm-3:00pm,Expository Writing(BCS-2E),BCS-2E
+Thursday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Thursday,C-14,8:30am-10:30am,Free slot,Free slot
+Thursday,C-14,10:30am-12:00pm,Free slot,Free slot
+Thursday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Thursday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Thursday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Thursday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Thursday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Thursday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Thursday,D-1,8:30am-10:30am,Free slot,Free slot
+Thursday,D-1,10:30am-12:00pm,Free slot,Free slot
+Thursday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Thursday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Thursday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Thursday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Thursday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Thursday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Thursday,D-2,8:30am-10:30am,Free slot,Free slot
+Thursday,D-2,10:30am-12:00pm,Free slot,Free slot
+Thursday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Thursday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Thursday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Thursday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Thursday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Thursday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-1,1:30pm-3:30pm,Technical and Business Writing(BCS-4D),BCS-4D
+Thursday,English Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Thursday,English Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-3,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-3,1:30pm-3:30pm,Technical and Business Writing(BCS-4E),BCS-4E
+Thursday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-4,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Thursday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-5,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Thursday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Thursday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Thursday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Thursday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Thursday,English Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Thursday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Thursday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Thursday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Thursday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-1,8:30am-11:30am,Operating System Lab(BCS-4A),BCS-4A
+Thursday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-2,8:30am-11:30am,Operating System Lab(BCS-4B),BCS-4B
+Thursday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-3,8:30am-11:30am,Operating System Lab(BCS-4C),BCS-4C
+Thursday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-4,8:30am-11:30am,Operating System Lab(BCS-4D),BCS-4D
+Thursday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-5,8:30am-11:30am,Operating System Lab(BCS-4E),BCS-4E
+Thursday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-6,8:30am-10:30am,Free slot,Free slot
+Thursday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-8,8:30am-10:30am,Free slot,Free slot
+Thursday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-8,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-13,8:30am-11:30am,Object Oriented Programming Lab(BDS-2A),BDS-2A
+Thursday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-13,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-14,8:30am-10:30am,Free slot,Free slot
+Thursday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-14,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-15,8:30am-10:30am,Free slot,Free slot
+Thursday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-15,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Lab-16,8:30am-10:30am,Free slot,Free slot
+Thursday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Thursday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Lab-16,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Micro Lab,8:30am-10:30am,Digital Logic Design Lab(BCS-2A),BCS-2A
+Thursday,Micro Lab,10:30am-12:00pm,Digital Logic Design Lab(BCS-2B),BCS-2B
+Thursday,Micro Lab,12:00pm-1:30pm,Digital Logic Design Lab(BCS-2C),BCS-2C
+Thursday,Micro Lab,1:30pm-3:00pm,Digital Logic Design Lab(BCS-2D),BCS-2D
+Thursday,Micro Lab,3:00pm-4:30pm,Digital Logic Design Lab(BCS-2E),BCS-2E
+Thursday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Thursday,Physics Lab,8:30am-10:30am,Free slot,Free slot
+Thursday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Thursday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Thursday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Thursday,Physics Lab,3:00pm-4:30pm,Free slot,Free slot
+Thursday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Thursday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Thursday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-201,8:30am-10:30am,Free slot,Free slot
+Friday,F-201,10:30am-12:00pm,Free slot,Free slot
+Friday,F-201,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-201,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-201,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-201,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-202,8:30am-10:30am,Free slot,Free slot
+Friday,F-202,10:30am-12:00pm,Free slot,Free slot
+Friday,F-202,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-202,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-202,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-202,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-202,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-203,8:30am-10:30am,Free slot,Free slot
+Friday,F-203,10:30am-12:00pm,Free slot,Free slot
+Friday,F-203,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-203,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-203,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-203,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-203,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-204,8:30am-10:30am,Free slot,Free slot
+Friday,F-204,10:30am-12:00pm,Free slot,Free slot
+Friday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-204,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-204,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-205,8:30am-10:30am,Free slot,Free slot
+Friday,F-205,10:30am-12:00pm,Free slot,Free slot
+Friday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-205,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-206,8:30am-10:30am,Free slot,Free slot
+Friday,F-206,10:30am-12:00pm,Free slot,Free slot
+Friday,F-206,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-206,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-207,8:30am-10:30am,Free slot,Free slot
+Friday,F-207,10:30am-12:00pm,Free slot,Free slot
+Friday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-207,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-208,8:30am-10:30am,Free slot,Free slot
+Friday,F-208,10:30am-12:00pm,Free slot,Free slot
+Friday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-208,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-209,8:30am-10:30am,Free slot,Free slot
+Friday,F-209,10:30am-12:00pm,Free slot,Free slot
+Friday,F-209,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-209,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-210,8:30am-10:30am,Free slot,Free slot
+Friday,F-210,10:30am-12:00pm,Free slot,Free slot
+Friday,F-210,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-210,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-210,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-301,8:30am-10:30am,Free slot,Free slot
+Friday,F-301,10:30am-12:00pm,Free slot,Free slot
+Friday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-301,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-301,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-302,8:30am-10:30am,Free slot,Free slot
+Friday,F-302,10:30am-12:00pm,Free slot,Free slot
+Friday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-302,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-302,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-303,8:30am-10:30am,Free slot,Free slot
+Friday,F-303,10:30am-12:00pm,Free slot,Free slot
+Friday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-303,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-304,8:30am-10:30am,Free slot,Free slot
+Friday,F-304,10:30am-12:00pm,Free slot,Free slot
+Friday,F-304,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-304,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-304,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-305,8:30am-10:30am,Free slot,Free slot
+Friday,F-305,10:30am-12:00pm,Free slot,Free slot
+Friday,F-305,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-305,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-306,8:30am-10:30am,Free slot,Free slot
+Friday,F-306,10:30am-12:00pm,Free slot,Free slot
+Friday,F-306,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-306,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-306,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-307,8:30am-10:30am,Free slot,Free slot
+Friday,F-307,10:30am-12:00pm,Free slot,Free slot
+Friday,F-307,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-307,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-307,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-308,8:30am-10:30am,Free slot,Free slot
+Friday,F-308,10:30am-12:00pm,Free slot,Free slot
+Friday,F-308,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-308,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-308,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-309,8:30am-10:30am,Free slot,Free slot
+Friday,F-309,10:30am-12:00pm,Free slot,Free slot
+Friday,F-309,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-309,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Friday,F-310,8:30am-10:30am,Free slot,Free slot
+Friday,F-310,10:30am-12:00pm,Free slot,Free slot
+Friday,F-310,12:00pm-1:30pm,Free slot,Free slot
+Friday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Friday,F-310,3:00pm-4:30pm,Free slot,Free slot
+Friday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Friday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Friday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-1,8:30am-10:30am,Free slot,Free slot
+Friday,C-1,10:30am-12:00pm,Free slot,Free slot
+Friday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-1,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-2,8:30am-10:30am,Free slot,Free slot
+Friday,C-2,10:30am-12:00pm,Free slot,Free slot
+Friday,C-2,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-2,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-3,8:30am-10:30am,Free slot,Free slot
+Friday,C-3,10:30am-12:00pm,Free slot,Free slot
+Friday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-4,8:30am-10:30am,Free slot,Free slot
+Friday,C-4,10:30am-12:00pm,Free slot,Free slot
+Friday,C-4,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-5,8:30am-10:30am,Free slot,Free slot
+Friday,C-5,10:30am-12:00pm,Free slot,Free slot
+Friday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-5,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-6,8:30am-10:30am,Free slot,Free slot
+Friday,C-6,10:30am-12:00pm,Free slot,Free slot
+Friday,C-6,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-7,8:30am-10:30am,Free slot,Free slot
+Friday,C-7,10:30am-12:00pm,Free slot,Free slot
+Friday,C-7,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-7,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-7,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-13,8:30am-10:30am,Free slot,Free slot
+Friday,C-13,10:30am-12:00pm,Free slot,Free slot
+Friday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-13,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Friday,C-14,8:30am-10:30am,Free slot,Free slot
+Friday,C-14,10:30am-12:00pm,Free slot,Free slot
+Friday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Friday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Friday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Friday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Friday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Friday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Friday,D-1,8:30am-10:30am,Free slot,Free slot
+Friday,D-1,10:30am-12:00pm,Free slot,Free slot
+Friday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Friday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Friday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Friday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Friday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Friday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Friday,D-2,8:30am-10:30am,Free slot,Free slot
+Friday,D-2,10:30am-12:00pm,Free slot,Free slot
+Friday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Friday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Friday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Friday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Friday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Friday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-3,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-4,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-5,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Friday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Friday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Friday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Friday,English Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Friday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Friday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Friday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Friday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-1,8:30am-11:30am,COAL Lab(BDS-4A),BDS-4A
+Friday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-1,3:00pm-6:00pm,Database Systems Lab(BCS-4A),BCS-4A
+Friday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-2,8:30am-11:30am,Free slot,Free slot
+Friday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-2,3:00pm-6:00pm,Database Systems Lab(BCS-4B),BCS-4B
+Friday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-3,8:30am-11:30am,COAL Lab(BDS-4B),BDS-4B
+Friday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-3,3:00pm-6:00pm,Database Systems Lab(BCS-4C),BCS-4C
+Friday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-4,8:30am-11:30am,COAL Lab(BDS-4C),BDS-4C
+Friday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-4,3:00pm-6:00pm,Database Systems Lab(BCS-4D),BCS-4D
+Friday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-5,8:30am-11:30am,Digital Logic Design Lab(BDS-2A),BDS-2A
+Friday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-5,3:00pm-6:00pm,Database Systems Lab(BCS-4E),BCS-4E
+Friday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-6,8:30am-11:30am,Object Oriented Programming Lab(BDS-2B),BDS-2B
+Friday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-6,3:00pm-6:00pm,Digital Logic Design(BDS-2B),BDS-2B
+Friday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-8,8:30am-11:30am,Digiatl Logic Design Lab(BDS-2C),BDS-2C
+Friday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-8,3:00pm-6:00pm,Object Oriented Programming Lab(BDS-2C),BDS-2C
+Friday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-13,8:30am-11:30am,Object Oriented Programming Lab(BCS-2A),BCS-2A
+Friday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-13,3:00pm-6:00pm,Object Oriented Programming Lab(BCS-2B),BCS-2B
+Friday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-14,8:30am-11:30am,Object Oriented Programming Lab(BCS-2C),BCS-2C
+Friday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-14,3:00pm-6:00pm,Object Oriented Programming Lab(BCS-2D),BCS-2D
+Friday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-15,8:30am-11:30am,Object Oriented Programming Lab(BCS-2E),BCS-2E
+Friday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-15,3:00pm-6:00pm,Free slot,Free slot
+Friday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Friday,Lab-16,8:30am-11:30am,Free slot,Free slot
+Friday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Friday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Friday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Friday,Lab-16,3:00pm-6:00pm,Free slot,Free slot
+Friday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Friday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Friday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Friday,Micro Lab,8:30am-11:30am,Free slot,Free slot
+Friday,Micro Lab,10:30am-12:00pm,Free slot,Free slot
+Friday,Micro Lab,12:00pm-1:30pm,Free slot,Free slot
+Friday,Micro Lab,1:30pm-3:00pm,Free slot,Free slot
+Friday,Micro Lab,3:00pm-6:00pm,Free slot,Free slot
+Friday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Friday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Friday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Friday,Physics Lab,8:30am-11:30am,Free slot,Free slot
+Friday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Friday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Friday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Friday,Physics Lab,3:00pm-6:00pm,Free slot,Free slot
+Friday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Friday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Friday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-201,8:30am-10:30am,Free slot,Free slot
+Saturday,F-201,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-201,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-201,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-201,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-201,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-201,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-201,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-202,8:30am-10:30am,Free slot,Free slot
+Saturday,F-202,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-202,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-202,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-202,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-202,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-202,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-202,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-203,8:30am-10:30am,Free slot,Free slot
+Saturday,F-203,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-203,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-203,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-203,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-203,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-203,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-203,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-204,8:30am-10:30am,Free slot,Free slot
+Saturday,F-204,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-204,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-204,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-204,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-204,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-204,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-204,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-205,8:30am-10:30am,Free slot,Free slot
+Saturday,F-205,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-205,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-205,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-205,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-205,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-205,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-205,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-206,8:30am-10:30am,Free slot,Free slot
+Saturday,F-206,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-206,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-206,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-206,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-206,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-206,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-206,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-207,8:30am-10:30am,Free slot,Free slot
+Saturday,F-207,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-207,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-207,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-207,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-207,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-207,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-207,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-208,8:30am-10:30am,Free slot,Free slot
+Saturday,F-208,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-208,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-208,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-208,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-208,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-208,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-208,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-209,8:30am-10:30am,Free slot,Free slot
+Saturday,F-209,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-209,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-209,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-209,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-209,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-209,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-209,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-210,8:30am-10:30am,Free slot,Free slot
+Saturday,F-210,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-210,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-210,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-210,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-210,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-210,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-210,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-301,8:30am-10:30am,Free slot,Free slot
+Saturday,F-301,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-301,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-301,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-301,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-301,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-301,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-301,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-302,8:30am-10:30am,Free slot,Free slot
+Saturday,F-302,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-302,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-302,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-302,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-302,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-302,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-302,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-303,8:30am-10:30am,Free slot,Free slot
+Saturday,F-303,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-303,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-303,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-303,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-303,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-303,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-303,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-304,8:30am-10:30am,Free slot,Free slot
+Saturday,F-304,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-304,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-304,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-304,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-304,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-304,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-304,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-305,8:30am-10:30am,Free slot,Free slot
+Saturday,F-305,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-305,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-305,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-305,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-305,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-305,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-305,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-306,8:30am-10:30am,Free slot,Free slot
+Saturday,F-306,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-306,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-306,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-306,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-306,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-306,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-306,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-307,8:30am-10:30am,Free slot,Free slot
+Saturday,F-307,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-307,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-307,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-307,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-307,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-307,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-307,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-308,8:30am-10:30am,Free slot,Free slot
+Saturday,F-308,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-308,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-308,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-308,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-308,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-308,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-308,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-309,8:30am-10:30am,Free slot,Free slot
+Saturday,F-309,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-309,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-309,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-309,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-309,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-309,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-309,7:30pm-9:00pm,Free slot,Free slot
+Saturday,F-310,8:30am-10:30am,Free slot,Free slot
+Saturday,F-310,10:30am-12:00pm,Free slot,Free slot
+Saturday,F-310,12:00pm-1:30pm,Free slot,Free slot
+Saturday,F-310,1:30pm-3:00pm,Free slot,Free slot
+Saturday,F-310,3:00pm-4:30pm,Free slot,Free slot
+Saturday,F-310,4:30pm-6:00pm,Free slot,Free slot
+Saturday,F-310,6:00pm-7:30pm,Free slot,Free slot
+Saturday,F-310,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-1,8:30am-10:30am,Free slot,Free slot
+Saturday,C-1,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-1,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-1,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-1,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-1,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-1,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-1,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-2,8:30am-10:30am,Free slot,Free slot
+Saturday,C-2,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-2,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-2,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-2,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-2,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-2,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-2,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-3,8:30am-10:30am,Free slot,Free slot
+Saturday,C-3,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-3,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-3,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-3,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-3,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-3,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-3,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-4,8:30am-10:30am,Free slot,Free slot
+Saturday,C-4,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-4,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-4,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-4,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-4,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-4,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-4,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-5,8:30am-10:30am,Free slot,Free slot
+Saturday,C-5,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-5,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-5,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-5,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-5,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-5,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-5,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-6,8:30am-10:30am,Free slot,Free slot
+Saturday,C-6,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-6,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-6,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-6,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-6,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-6,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-6,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-7,8:30am-10:30am,Free slot,Free slot
+Saturday,C-7,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-7,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-7,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-7,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-7,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-7,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-7,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-13,8:30am-10:30am,Free slot,Free slot
+Saturday,C-13,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-13,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-13,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-13,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-13,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-13,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-13,7:30pm-9:00pm,Free slot,Free slot
+Saturday,C-14,8:30am-10:30am,Free slot,Free slot
+Saturday,C-14,10:30am-12:00pm,Free slot,Free slot
+Saturday,C-14,12:00pm-1:30pm,Free slot,Free slot
+Saturday,C-14,1:30pm-3:00pm,Free slot,Free slot
+Saturday,C-14,3:00pm-4:30pm,Free slot,Free slot
+Saturday,C-14,4:30pm-6:00pm,Free slot,Free slot
+Saturday,C-14,6:00pm-7:30pm,Free slot,Free slot
+Saturday,C-14,7:30pm-9:00pm,Free slot,Free slot
+Saturday,D-1,8:30am-10:30am,Free slot,Free slot
+Saturday,D-1,10:30am-12:00pm,Free slot,Free slot
+Saturday,D-1,12:00pm-1:30pm,Free slot,Free slot
+Saturday,D-1,1:30pm-3:00pm,Free slot,Free slot
+Saturday,D-1,3:00pm-4:30pm,Free slot,Free slot
+Saturday,D-1,4:30pm-6:00pm,Free slot,Free slot
+Saturday,D-1,6:00pm-7:30pm,Free slot,Free slot
+Saturday,D-1,7:30pm-9:00pm,Free slot,Free slot
+Saturday,D-2,8:30am-10:30am,Free slot,Free slot
+Saturday,D-2,10:30am-12:00pm,Free slot,Free slot
+Saturday,D-2,12:00pm-1:30pm,Free slot,Free slot
+Saturday,D-2,1:30pm-3:00pm,Free slot,Free slot
+Saturday,D-2,3:00pm-4:30pm,Free slot,Free slot
+Saturday,D-2,4:30pm-6:00pm,Free slot,Free slot
+Saturday,D-2,6:00pm-7:30pm,Free slot,Free slot
+Saturday,D-2,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-1,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-1,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-2,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-2,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-3,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-3,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-4,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-4,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-5,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-5,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Saturday,English Lab-6,8:30am-10:30am,Free slot,Free slot
+Saturday,English Lab-6,10:30am-12:00pm,Free slot,Free slot
+Saturday,English Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Saturday,English Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Saturday,English Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Saturday,English Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Saturday,English Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Saturday,English Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-1,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-1,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-1,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-1,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-1,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-1,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-1,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-1,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-2,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-2,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-2,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-2,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-2,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-2,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-2,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-2,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-3,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-3,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-3,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-3,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-3,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-3,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-3,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-3,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-4,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-4,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-4,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-4,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-4,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-4,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-4,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-4,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-5,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-5,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-5,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-5,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-5,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-5,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-5,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-5,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-6,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-6,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-6,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-6,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-6,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-6,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-6,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-6,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-8,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-8,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-8,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-8,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-8,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-8,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-8,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-8,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-13,8:30am-11:30am,Data Structures Lab(BDS-4A),BDS-4A
+Saturday,Lab-13,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-13,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-13,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-13,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-13,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-13,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-13,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-14,8:30am-11:30am,Data Structures Lab(BDS-4B),BDS-4B
+Saturday,Lab-14,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-14,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-14,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-14,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-14,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-14,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-14,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-15,8:30am-11:30am,Data Structures Lab(BDS-4C),BDS-4C
+Saturday,Lab-15,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-15,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-15,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-15,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-15,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-15,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-15,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Lab-16,8:30am-10:30am,Free slot,Free slot
+Saturday,Lab-16,10:30am-12:00pm,Free slot,Free slot
+Saturday,Lab-16,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Lab-16,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Lab-16,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Lab-16,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Lab-16,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Lab-16,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Micro Lab,8:30am-10:30am,Free slot,Free slot
+Saturday,Micro Lab,10:30am-12:00pm,Free slot,Free slot
+Saturday,Micro Lab,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Micro Lab,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Micro Lab,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Micro Lab,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Micro Lab,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Micro Lab,7:30pm-9:00pm,Free slot,Free slot
+Saturday,Physics Lab,8:30am-10:30am,Free slot,Free slot
+Saturday,Physics Lab,10:30am-12:00pm,Free slot,Free slot
+Saturday,Physics Lab,12:00pm-1:30pm,Free slot,Free slot
+Saturday,Physics Lab,1:30pm-3:00pm,Free slot,Free slot
+Saturday,Physics Lab,3:00pm-4:30pm,Free slot,Free slot
+Saturday,Physics Lab,4:30pm-6:00pm,Free slot,Free slot
+Saturday,Physics Lab,6:00pm-7:30pm,Free slot,Free slot
+Saturday,Physics Lab,7:30pm-9:00pm,Free slot,Free slot
